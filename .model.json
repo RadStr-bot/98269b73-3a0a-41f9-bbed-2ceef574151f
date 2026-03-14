@@ -1,0 +1,12 @@
+{
+  "ok": true,
+  "value": {
+    "configuration": {
+      "http://dataspecer.com/resources/local/git-remote-configuration": {
+        "publicationBranch": "publication-branch",
+        "exportFormat": "json",
+        "exportVersion": 2
+      }
+    }
+  }
+}
